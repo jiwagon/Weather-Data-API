@@ -31,7 +31,6 @@ public class App {
                 else {
                     System.out.println(responseLine);
                 }
-
             }
         } 
         catch (Exception e) {
